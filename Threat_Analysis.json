@@ -1,0 +1,20 @@
+[
+  {
+    "threat": "Repeated failed login",
+    "ip": "198.51.100.10",
+    "count": 3,
+    "mitigation": "Rate-limit / temporary block recommended"
+  },
+  {
+    "threat": "access_denied",
+    "ip": "203.0.113.20",
+    "count": 1,
+    "mitigation": "RBAC denial"
+  },
+  {
+    "threat": "suspicious_payload",
+    "ip": "203.0.113.40",
+    "count": 1,
+    "mitigation": "Input validation / WAF recommended"
+  }
+]

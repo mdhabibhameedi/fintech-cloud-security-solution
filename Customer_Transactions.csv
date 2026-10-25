@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,currency,merchant,status
+TX1001,C001,120.50,USD,MarketOne,completed
+TX1002,C002,990.00,USD,CloudStore,completed
+TX1003,C003,40.75,USD,MetroShop,completed
+TX1004,C001,1800.00,USD,TechWorld,flagged
+TX1005,C004,75.20,USD,BookHub,completed
